@@ -1,6 +1,6 @@
 # <p align="center"> Badges para Markdown 📝</p> 
 
-### <div align="center"><code> Botões ou gadgets para estilização de markdown. Adicione badges ao seu Perfil e Projetos. </code></div>
+### <div align="center"><code> Botões ou gadgets para estilização de markdown. </code></div>
  
 
 -------------------------------------------------------------------------------------------------------------------------------------------
